@@ -1,7 +1,7 @@
 # Computer_Networking
 This project is a collection of 5 products: a web server, UDP pinger, mail client, proxy server, and ICMP pinger. All products are meant to demonstrate aspects of computer networking that I've studied in class, such as unreliable connections (UDP) and HTTP messages.
 
-#Project Specifications
+# Project Specifications
 All products were completed using Python.
 
 Web Server
@@ -37,7 +37,7 @@ The UDP pinger in the future can have the added functionalities of letting the u
 
 Mail Client
 ---
-The mail client can be improved by allowing the user to use gmail since it can be pretty difficult to configure gmail to use SMTPand can be very picky.
+The mail client can be improved by allowing the user to use gmail since it can be pretty difficult to configure gmail to use SMTP and can be very picky.
 
 Proxy Server
 ---
